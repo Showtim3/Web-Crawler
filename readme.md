@@ -1,6 +1,7 @@
-A BFS implementation of a web crawler.
+**A BFS implementation of a web crawler.**
 
 To Run:
-```1. npm i```
+```1. npm i``` 
+
 ```2. node index```
 
